@@ -1,0 +1,13 @@
+name: CountryCo2Emission
+title: CountryCo2Emission
+username:
+account: harmaz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7862316
+bundleId: 6619627
+url: https://harmaz.shinyapps.io/CountryCo2Emission/
+when: 1670663926.05442
+lastSyncTime: 1670663926.05443
+asMultiple: FALSE
+asStatic: FALSE
